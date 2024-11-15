@@ -1,4 +1,4 @@
-#Wildlife Insight: Data Transformation and Model Preparation
+# Wildlife Insight: Data Transformation and Model Preparation
 
 This repository contains the code for preparing and transforming data for machine learning modeling. It involves data cleaning, handling missing values, outlier detection, and encoding categorical variables to ensure the dataset is model-ready.
 
